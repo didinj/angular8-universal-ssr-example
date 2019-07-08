@@ -1,4 +1,6 @@
-# ArticleCrud
+# Angular 8 Universal and MongoDB Server-side Rendering (SSR)
+
+This source code is part of [Angular 8 Universal and MongoDB Server-side Rendering (SSR)]() tutorial.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
 
